@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BackButtonShow
+  m_Name: ArchiveHintHide
   serializedVersion: 6
   m_Legacy: 1
   m_Compressed: 0
@@ -22,31 +22,22 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -461.4
-        inSlope: -43.575886
-        outSlope: -43.575886
+        value: 0.000061035
+        inSlope: -64.677635
+        outSlope: -64.677635
         tangentMode: 0
         weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.08337275
+        inWeight: 0.09093224
+        outWeight: 0.104068086
       - serializedVersion: 3
-        time: 0.36666667
-        value: -330.11356
-        inSlope: 260.47528
-        outSlope: 260.47528
+        time: 0.4
+        value: -707.57
+        inSlope: -241.06088
+        outSlope: -241.06088
         tangentMode: 0
         weightedMode: 0
-        inWeight: 0.38077757
-        outWeight: 0.09582375
-      - serializedVersion: 3
-        time: 0.75
-        value: -332.5996
-        inSlope: 155.97867
-        outSlope: 155.97867
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.10541967
-        outWeight: 0.33333334
+        inWeight: 0.12251675
+        outWeight: 0.14050892
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -68,7 +59,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.75
+    m_StopTime: 0.4
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -89,31 +80,22 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -461.4
-        inSlope: -43.575886
-        outSlope: -43.575886
+        value: 0.000061035
+        inSlope: -64.677635
+        outSlope: -64.677635
         tangentMode: 0
         weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.08337275
+        inWeight: 0.09093224
+        outWeight: 0.104068086
       - serializedVersion: 3
-        time: 0.36666667
-        value: -330.11356
-        inSlope: 260.47528
-        outSlope: 260.47528
+        time: 0.4
+        value: -707.57
+        inSlope: -241.06088
+        outSlope: -241.06088
         tangentMode: 0
         weightedMode: 0
-        inWeight: 0.38077757
-        outWeight: 0.09582375
-      - serializedVersion: 3
-        time: 0.75
-        value: -332.5996
-        inSlope: 155.97867
-        outSlope: 155.97867
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.10541967
-        outWeight: 0.33333334
+        inWeight: 0.12251675
+        outWeight: 0.14050892
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
